@@ -126,7 +126,6 @@ function getLastDigit(value) {
   return value % 10;
 }
 
-
 /**
  * Returns a number by given string representation.
  *
